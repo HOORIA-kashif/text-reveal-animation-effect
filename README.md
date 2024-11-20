@@ -1,1 +1,1 @@
-# text-reveal-animation-effect
+"I created an engaging text reveal animation effect using #HTML and #CSS. This effect features smooth transitions where text elegantly appears on the screen while its color dynamically changes, adding a visually striking and modern aesthetic. The animation is responsive and crafted to enhance user interaction, making it a perfect fit for websites, banners, or presentations that need a touch of creativity and elegance. #frontend development"
